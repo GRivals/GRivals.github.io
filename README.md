@@ -1,1 +1,1 @@
-# terminal.github.io
+# GRivals.github.io
